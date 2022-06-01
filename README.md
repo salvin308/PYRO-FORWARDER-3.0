@@ -11,6 +11,11 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TEAM-PYRO-BOTZ/Pyro-Forward_loader)
 
 
+### 👨‍💻 DEVS
+
+[𝙂𝙞𝙩𝙃𝙪𝙗 𝙉𝙤𝙤𝘽](https://t.me/GitHub_noob)
+
+[𝙼𝚛.𝙼𝙺𝙽 𝚃𝙶](https://t.me/mr_MKN)
 
 ### Variables
 
