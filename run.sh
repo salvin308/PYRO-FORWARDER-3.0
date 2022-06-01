@@ -1,7 +1,7 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/TEAM-PYRO-BOTZ/PYRO-FORWARDER-2.0 /PYRO-FORWARDER-2.0     
+  git clone https://github.com/PYRO-HIDDEN/PYRO-FORWARDER-2.0.git /PYRO-FORWARDER-2.0     
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
   git clone $UPSTREAM_REPO /PYRO-FORWARDER-2.0
