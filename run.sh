@@ -522,6 +522,448 @@ export TERM=xterm;#Copyright (C) 2007 Free Software Foundation, Inc. <https://fs
 #of this license document, but changing it is not allowed.
 #Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
 #Everyone is permitted to copy and distribute verbatim copies
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license documen
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license document, but changing it is not allowed.
+#Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#Everyone is permitted to copy and distribute verbatim copies
+#of this license documen
 #of this license document, but changing it is not allowed.
 #Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
 #Everyone is permitted to copy and distribute verbatim copies
