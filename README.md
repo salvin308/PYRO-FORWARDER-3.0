@@ -29,8 +29,7 @@
 * `DATABASE_NAME` Database Cluster name
 * `COLLECTION_NAME` Database Collection name.
 
-### SPECIAL THANKS TO SUBIN 😘
-subin uyir🔥
+### THANKS TO SUBIN 
 
 * [SUBIN](https://github.com/subinps) for his [Forward_2.0](https://github.com/subinps/Forward_2.0)
 
