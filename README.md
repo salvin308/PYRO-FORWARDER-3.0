@@ -8,7 +8,7 @@
 * For Private channels User account is used to copy messages, hence will be slow, to avoid ban.
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TEAM-PYRO-BOTZ/Pyro-Forward_loader)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TEAM-PYRO-BOTZ/PYRO-FORWARDER-3.0)
 
 
 ### 👨‍💻 DEVS
