@@ -1,6 +1,6 @@
 {
   "name": "Auto-Forward-Bot",
-  "logo": "https://telegra.ph/file/04d08445dce68c9a57b25.jpg",
+  "logo": "https://telegra.ph/file/112c44f7f07a095d2dddd.jpg",
   "description": "Telegram's Best Smart Plugin File Forward Bot",
   "keywords": [
     "telegram",
@@ -9,7 +9,7 @@
     "forward",
     "bot"
   ],
-  "repository": "https://github.com/TEAM-PYRO-BOTZ/Pyro-Forward_loader",
+  "repository": "https://github.com/TEAM-PYRO-BOTZ/PYRO-FORWARDER-3.0",
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org or @UseTGXBot",
