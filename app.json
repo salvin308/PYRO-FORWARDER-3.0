@@ -9,7 +9,7 @@
     "forward",
     "bot"
   ],
-  "repository": "https://github.com/TEAM-PYRO-BOTZ/PYRO-FORWARDER-3.0",
+  "repository": "https://github.com/salvin308/PYRO-FORWARDER-3.0",
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org or @UseTGXBot",
