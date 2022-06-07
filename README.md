@@ -13,7 +13,7 @@
 
 ### 👨‍💻 DEVS
 
-[𝙂𝙞𝙩𝙃𝙪𝙗 𝙉𝙤𝙤𝘽](https://t.me/GitHub_noob)
+[𝙂𝙞𝙩𝙃𝙪𝙗 𝙉𝙤𝙤𝘽](https://t.me/GitHub_noob)the pro noob😁
 
 [𝙼𝚛.𝙼𝙺𝙽 𝚃𝙶](https://t.me/mr_MKN)
 
